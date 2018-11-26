@@ -14,3 +14,6 @@ The list of parameters is:
   - 
 # Dependencies 
   - dotenv
+  - express
+  - helmet
+  - pg-promise
